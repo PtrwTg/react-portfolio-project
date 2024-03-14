@@ -1,0 +1,23 @@
+.number_con {
+    margin-top: 80px;
+    height: 300px;
+    background-color: #0085ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    & .number_items {
+        color: #fff;
+        margin: 0 50px;
+
+        & h3 {
+            font-size: 48px;
+            font-weight: bold;
+        }
+        & p {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        }
+    }

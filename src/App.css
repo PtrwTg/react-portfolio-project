@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lato-BoldItalic';
+    src: url('Lato-BoldItalic.ttf') format('truetype'); 
+    font-style: italic;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato-BoldItalic'; 
+}
